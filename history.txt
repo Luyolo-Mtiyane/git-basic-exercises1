@@ -1,0 +1,500 @@
+   45  /usr/bin/python3 /Users/luyolomtiyane/task3.py
+   46  /usr/bin/python3 /Users/luyolomtiyane/task3.py
+   47  /usr/bin/python3 /Users/luyolomtiyane/task3.py
+   48  /usr/bin/python3 /Users/luyolomtiyane/task3.py
+   49  /usr/bin/python3 /Users/luyolomtiyane/task3.py
+   50  /usr/bin/python3 /Users/luyolomtiyane/task3.py
+   51  /usr/bin/python3 /Users/luyolomtiyane/task3.py
+   52  /usr/bin/python3 /Users/luyolomtiyane/task3.py
+   53  /usr/bin/python3 /Users/luyolomtiyane/task3.py
+   54  /usr/bin/python3 /Users/luyolomtiyane/attemps.py
+   55  /usr/bin/python3 /Users/luyolomtiyane/attemps.py
+   56  /usr/bin/python3 /Users/luyolomtiyane/attemps.py
+   57  /usr/bin/python3 /Users/luyolomtiyane/attemps.py
+   58  /usr/bin/python3 /Users/luyolomtiyane/attemps.py
+   59  /usr/bin/python3 /Users/luyolomtiyane/attemps.py
+   60  /usr/bin/python3 /Users/luyolomtiyane/attemps.py
+   61  /usr/bin/python3 /Users/luyolomtiyane/task3.py
+   62  /usr/bin/python3 /Users/luyolomtiyane/task4.py
+   63  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+   64  /usr/bin/python3 /Users/luyolomtiyane/task4.py
+   65  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+   66  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+   67  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+   68   /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52921 -- /Users/luyolomtiyane/task3.py 
+   69   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54554 -- /Users/luyolomtiyane/task4.py 
+   70   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 54703 -- /Users/luyolomtiyane/task3.py 
+   71   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 55487 -- /Users/luyolomtiyane/task4.py 
+   72   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 55649 -- /Users/luyolomtiyane/task4.py 
+   73   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56055 -- /Users/luyolomtiyane/attemps.py 
+   74   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56060 -- /Users/luyolomtiyane/attemps.py 
+   75   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56065 -- /Users/luyolomtiyane/attemps.py 
+   76   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56070 -- /Users/luyolomtiyane/attemps.py 
+   77   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56075 -- /Users/luyolomtiyane/attemps.py 
+   78   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56080 -- /Users/luyolomtiyane/attemps.py 
+   79   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56085 -- /Users/luyolomtiyane/attemps.py 
+   80   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56090 -- /Users/luyolomtiyane/attemps.py 
+   81   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57081 -- /Users/luyolomtiyane/task5.py 
+   82   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57089 -- /Users/luyolomtiyane/task5.py 
+   83   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57136 -- /Users/luyolomtiyane/attemps.py 
+   84   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57141 -- /Users/luyolomtiyane/task8.py 
+   85   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57146 -- /Users/luyolomtiyane/task8.py 
+   86   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57151 -- /Users/luyolomtiyane/task8.py 
+   87   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57156 -- /Users/luyolomtiyane/task8.py 
+   88   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57425 -- /Users/luyolomtiyane/task6.py 
+   89   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57430 -- /Users/luyolomtiyane/task6.py 
+   90   cd /Users/luyolomtiyane ; /usr/bin/env /usr/bin/python3 /Users/luyolomtiyane/.vscode/extensions/ms-python.python-2022.20.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 57435 -- /Users/luyolomtiyane/task6.py 
+   91  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+   92  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+   93  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+   94  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+   95  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+   96  /usr/bin/python3 /Users/luyolomtiyane/task4.py
+   97  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+   98  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+   99  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+  100  /usr/bin/python3 /Users/luyolomtiyane/attemps.py
+  101  /usr/bin/python3 /Users/luyolomtiyane/attemps.py
+  102  /usr/bin/python3 /Users/luyolomtiyane/attemps.py
+  103  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  104  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  105  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  106  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  107  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  108  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  109  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  110  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  111  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  112  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  113  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  114  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  115  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  116  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  117  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  118  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  119  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  120  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  121  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  122  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  123  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  124  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  125  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  126  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  127  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+  128  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+  129  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+  130  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+  131  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+  132  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  133  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  134  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  135  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  136  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  137  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  138  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  139  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  140  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  141  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  142  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  143  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  144  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  145  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  146  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  147  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  148  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  149  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  150  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  151  /usr/bin/python3 "/Users/luyolomtiyane/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/46BF9F01-67CF-447C-920F-F86E873D1026/task5.py"
+  152  /usr/bin/python3 /Users/luyolomtiyane/task6.py
+  153  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  154  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+  155  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+  156  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  157  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  158  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  159  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  160  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  161  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  162  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  163  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+  164  /usr/bin/python3 /Users/luyolomtiyane/task5.py
+  165  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  166  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  167  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  168  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  169  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  170  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  171  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  172  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  173  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  174  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  175  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  176  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  177  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  178  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  179  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  180  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  181  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  182  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  183  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  184  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  185  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  186  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  187  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  188  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  189  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  190  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  191  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  192  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  193  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  194  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  195  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  196  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  197  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  198  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  199  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  200  /usr/bin/python3 /Users/luyolomtiyane/task8.py
+  201  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  202  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  203  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  204  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  205  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  206  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  207  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  208  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  209  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  210  /usr/bin/python3 /Users/luyolomtiyane/task7.py
+  211  git checkout main
+  212  git branch
+  213  git pull
+  214  git checkout -b task/1
+  215  /usr/bin/python3 /Users/luyolomtiyane/Downloads/Luyolo-Mtiyane-219-level-1-programming-katas-python/task1.py
+  216  git status
+  217  git add
+  218  git add task1.py
+  219  git status
+  220  git commit
+  221  git commit -m "task1"
+  222  git status
+  223  git status
+  224  git push
+  225  git push --set-upstream origin task/1
+  226  git checkout main
+  227  git branch
+  228  pwd
+  229  git branch
+  230  git status
+  231  git fetch 
+  232  git status
+  233  /usr/bin/python3 /Users/luyolomtiyane/Downloads/level1/task1.py
+  234  /usr/bin/python3 /Users/luyolomtiyane/task9.py
+  235  /usr/bin/python3 /Users/luyolomtiyane/task9.py
+  236  /usr/bin/python3 /Users/luyolomtiyane/task9.py
+  237  /usr/bin/python3 /Users/luyolomtiyane/task9.py
+  238  /usr/bin/python3 /Users/luyolomtiyane/task9.py
+  239  /usr/bin/python3 /Users/luyolomtiyane/task9.py
+  240  /usr/bin/python3 /Users/luyolomtiyane/task9.py
+  241  /usr/bin/python3 /Users/luyolomtiyane/task9.py
+  242  /usr/bin/python3 /Users/luyolomtiyane/task10-1.py
+  243  /usr/bin/python3 /Users/luyolomtiyane/task10-1.py
+  244  /usr/bin/python3 /Users/luyolomtiyane/task10-1.py
+  245  /usr/bin/python3 /Users/luyolomtiyane/task10-1.py
+  246  /usr/bin/python3 /Users/luyolomtiyane/task10-1.py
+  247  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  248  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  249  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  250  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  251  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  252  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  253  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  254  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  255  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  256  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  257  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  258  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  259  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  260  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  261  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  262  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  263  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  264  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  265  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  266  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  267  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  268  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  269  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  270  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  271  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  272  /usr/bin/python3 /Users/luyolomtiyane/task10.py
+  273  git cd
+  274  cd git-basic-exercises
+  275  git checkout main
+  276  git branch
+  277  git checkout task1
+  278  git branch
+  279  git checkout task/1
+  280  git branch
+  281  rm -rf.git
+  282  /usr/bin/python3 /Users/luyolomtiyane/Downloads/git-basic-exercises/git-basic-exercises
+  283  cd git-basic-exercises
+  284  cd
+  285  ls -a
+  286  git init
+  287  ls -a
+  288  touch READ.me
+  289  git status
+  290  git checkout main
+  291  /usr/bin/python3 /Users/luyolomtiyane/Downloads/git-basic-exercises/git-basic-exercises
+  292  cd git-basic-exercises
+  293  git init
+  294  git config --global init.defaultBranch <git-basic-exercises>
+  295  cd git-basic-exercises
+  296  git branch -m git-basic-exercises
+  297  git status
+  298  git checkout main
+  299  cd git-basis-exercises
+  300  git config --global init.defaultBranch <name>git-basic-exercises
+  301  cd git-basic-exercises
+  302  git init
+  303  cd Downloads/git-basic-exercises/git-basic-exercises
+  304  cd 
+  305  ls -a
+  306  git init
+  307  ls -a
+  308  cd ..
+  309  git status
+  310  git-baisc-exercises
+  311  https://github.com/Luyolo-Mtiyane/git-basic-exercises.git
+  312  git init
+  313  git branch -m git-basic-exercises
+  314  git clone https://github.com/Luyolo-Mtiyane/git-basic-exercises.git
+  315  git init
+  316  ls -a
+  317  git init
+  318  ls -a
+  319  git status
+  320  git log
+  321  git add README.me
+  322  git init
+  323  ls -a
+  324  git status
+  325  touch.README.md
+  326  git clone https://github.com/Luyolo-Mtiyane/git-basic-exercises.git
+  327  touch README.md
+  328  ls -a
+  329  git status
+  330  git ;pg
+  331  git log
+  332  git add README.md
+  333  git status
+  334  git commit -m "initial commit"
+  335  git log
+  336  q
+  337  nano README.md
+  338  cat README.md
+  339  git status
+  340  git commit -a "second commit"
+  341  git commit -m "second commit"
+  342  git status
+  343  nano README.md
+  344  git status
+  345  git log
+  346  git commit -m "second commit"
+  347  git add "second commit"
+  348  nano README.md
+  349  git commit -a "second commit"
+  350  git status
+  351  git add "second commit"
+  352  cat README.md
+  353  git status
+  354  git add README.md "second commit"
+  355  git commit -m "second commit"
+  356  git add README.md
+  357  git commit -m "second commit"
+  358  nano README.md
+  359  cat README.md
+  360  git add README.md
+  361  git commit -m "third commit"
+  362  git log
+  363  q
+  364  git checkout
+  365  git checkout 105bb92fe75858415e634807222f7a374e8bc156
+  366  cat README.me
+  367  cat README.md
+  368  git checkout main
+  369  git checkout
+  370  git checkout
+  371  cat README.md
+  372  git checkout main
+  373  cat README.md
+  374  git branch
+  375  git branch -m milkshake-flavours
+  376  git branch
+  377  git branch milkshake-flavours
+  378  git branch
+  379  git checkout
+  380  git checkout milshake-flavours
+  381  git checkout
+  382  nano milkshakes.md
+  383  git status
+  384  git add README.md
+  385  git commit -m "added initial flavours"
+  386  git add README.md
+  387  git commit "added initial flavours"
+  388  cat README.md
+  389  cat milshakes.md
+  390  add milkshakes.md
+  391  git branch
+  392  git status
+  393  git add milkshakes.md
+  394  git commit "added initial flavours"
+  395  git commit -m "added initial flavours"
+  396  git checkout git-basic-exercises
+  397  git log
+  398  git branch
+  399  history > history.txt
+  400  git add history.txt
+  401  git commit "added history"
+  402  git commint -m "added history"
+  403  git commit -m "added history"
+  404  git log
+  405  git log
+  406  git checkout milkshakes.md
+  407  git log
+  408  nano README.md
+  409  git add README.md
+  410  git commit -m "added initial flavours"random readme changes
+  411  git commit -m "random readme changes"
+  412  checkout history
+  413  checkout history.txt
+  414  git checkout history
+  415  git checkout history.txt
+  416  cat README.md
+  417  cd ..
+  418  git checkout branch hisory.txt
+  419  git checkout branch history
+  420  git checkout
+  421  git init
+  422  git branch -m history
+  423  rm README.md 
+  424  re README.md echp 'booya" > README.md
+  425  git add
+  426  echo "booya" > README.md
+  427  rm README.md
+  428  echo "booya" > README.md
+  429  git add
+  430  git add README.md
+  431  git commint -m "rewrote readme"
+  432  git commit -m "rewrote readme"
+  433  git checkout main 
+  434  git checkout git-basic-exercises
+  435  ls
+  436  git log
+  437  git checkout milkshake-flavours
+  438  ls
+  439  git log
+  440  git log
+  441  git checkout git-basic-exercises
+  442  git log
+  443  git status
+  444  git checkout main
+  445  git pull
+  446  git checkout -b task/2
+  447  git pull task/2
+  448  git status
+  449  git checkout task2.py
+  450  git checkout task/2
+  451  git pull
+  452  /usr/bin/python3 /Users/luyolomtiyane/Downloads/Luyolo-Mtiyane-219-level-1-programming-katas-python/task2.py
+  453  git status
+  454  git add task2.py
+  455  git commit -m "Task2 EitherThree function"
+  456  git push
+  457  git checkout main
+  458  git status
+  459  git checkout task/3
+  460  /usr/bin/python3 /Users/luyolomtiyane/Downloads/Luyolo-Mtiyane-219-level-1-programming-katas-python/task3.py
+  461  git add task3.py
+  462  git commit -m "is_sixtyFive function"
+  463  git push
+  464  git checkout main
+  465  git status
+  466  git checkout task/1
+  467  git checkout main
+  468  git status
+  469  git checkout task/4
+  470  git pull
+  471  git add task4.py
+  472  git commit -m "Square function"
+  473  git push
+  474  git checkout main
+  475  git checkout main
+  476  git status
+  477  git pull task/5
+  478  git checkout task/5
+  479  git pull
+  480  touch task5.py
+  481  git add task5.py
+  482  git commit -m "Triangle function"
+  483  git push
+  484  git status
+  485  git checkout main
+  486  git status
+  487  git checkout task/6
+  488  git pull
+  489  git status
+  490  ls -
+  491  ls -a
+  492  git init
+  493  git status
+  494  touch README.md
+  495  ls -a
+  496  git status
+  497  git log
+  498  git status
+  499  ls -a
+  500  git init
+  501  ls -a
+  502  git status
+  503  touch README.md
+  504  ls -a
+  505  git status
+  506  git log
+  507  git add README.md
+  508  git status
+  509  git reset
+  510  git status
+  511  git add README.md
+  512  git commit -m "initial commit"
+  513  git log
+  514  q
+  515  nano README.md
+  516  cat README.md
+  517  git status
+  518  git add README.md
+  519  git commit -m "second commit"
+  520  nano README.md
+  521  cat README.md
+  522  git add README.md
+  523  git commit -m "third commit"
+  524  git log
+  525  git checkout 679837bb1d37670c1eade0ae1e57c0eae8f400db
+  526  cat README.md
+  527  git checkout main
+  528  cat README.md
+  529  git status
+  530  git branch main
+  531  git milkshake-flavours
+  532  git branch milkshake-flavours
+  533  git checkout milkshake-flavours
+  534  nano milkshakes.md
+  535  git status
+  536  git add milkshake-flavours.md
+  537  git commit -m "added initial flavours"
+  538  git log
+  539  git checkout milkshake-flavours
+  540  git checkout main
+  541  git branch history
+  542  git log
+  543  git branch
+  544  history > history.txt
